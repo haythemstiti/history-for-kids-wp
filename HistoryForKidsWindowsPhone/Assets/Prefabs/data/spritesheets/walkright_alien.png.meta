@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: b83e41eed644cd5429ec25028b75fac8
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: walkright_alien_0
+    21300002: walkright_alien_1
+    21300004: walkright_alien_2
+    21300006: walkright_alien_3
+    21300008: walkright_alien_4
+    21300010: walkright_alien_5
+    21300012: walkright_alien_6
+    21300014: walkright_alien_7
+    21300016: walkright_alien_8
+    21300018: walkright_alien_9
+    21300020: walkright_alien_10
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: walkright_alien_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 34
+        width: 66
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkright_alien_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 35
+        width: 66
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkright_alien_2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 36
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkright_alien_3
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 37
+        width: 69
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkright_alien_4
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 36
+        width: 70
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkright_alien_5
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 35
+        width: 69
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkright_alien_6
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 33
+        width: 68
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkright_alien_7
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 32
+        width: 68
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkright_alien_8
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 32
+        width: 67
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkright_alien_9
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 32
+        width: 67
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walkright_alien_10
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 32
+        width: 66
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
